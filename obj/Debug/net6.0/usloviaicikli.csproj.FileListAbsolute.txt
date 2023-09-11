@@ -1,0 +1,15 @@
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\bin\Debug\net6.0\usloviaicikli.exe
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\bin\Debug\net6.0\usloviaicikli.deps.json
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\bin\Debug\net6.0\usloviaicikli.runtimeconfig.json
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\bin\Debug\net6.0\usloviaicikli.dll
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\bin\Debug\net6.0\usloviaicikli.pdb
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\obj\Debug\net6.0\usloviaicikli.csproj.AssemblyReference.cache
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\obj\Debug\net6.0\usloviaicikli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\obj\Debug\net6.0\usloviaicikli.AssemblyInfoInputs.cache
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\obj\Debug\net6.0\usloviaicikli.AssemblyInfo.cs
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\obj\Debug\net6.0\usloviaicikli.csproj.CoreCompileInputs.cache
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\obj\Debug\net6.0\usloviaicikli.dll
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\obj\Debug\net6.0\refint\usloviaicikli.dll
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\obj\Debug\net6.0\usloviaicikli.pdb
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\obj\Debug\net6.0\usloviaicikli.genruntimeconfig.cache
+C:\Users\kiss_\source\repos\пары\usloviaicikli\usloviaicikli\obj\Debug\net6.0\ref\usloviaicikli.dll
